@@ -1,0 +1,18 @@
+==========================================
+  LINUX USER AUDIT REPORT
+  Generated: 2026-06-27 21:56:04
+  Hostname: shadow
+==========================================
+
+[*] Oddiy userlar (UID >= 1000):
+----------------------------------------
+  Username: theshadow            UID: 1000
+
+[*] Sudo huquqiga ega userlar:
+----------------------------------------
+  Username: theshadow            [sudo group]
+
+[*] Bo'sh parolli userlar (XAVF!):
+----------------------------------------
+  [+] Bo'sh parolli user topilmadi. Tizim xavfsiz.
+
